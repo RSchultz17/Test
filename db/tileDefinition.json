@@ -1,0 +1,27 @@
+{
+  "8c664622-1ca3-470a-a0a9-06c96014b25f": {
+    "sampleData": {
+      "title": "sampletile-list tile-list",
+      "contents": [
+        {
+          "text": "Initial text to be replaced"
+        }
+      ],
+      "config": {
+        "listStyle": "contentList"
+      }
+    },
+    "displayName": "sampletile-list",
+    "name": "sampletile-list",
+    "description": "sampletile-list",
+    "style": "LIST",
+    "icons": {
+      "16": "https://community.jivesoftware.com/servlet/JiveServlet/showImage/102-99994-1-1023036/j.png",
+      "48": "https://community.jivesoftware.com/servlet/JiveServlet/showImage/102-99994-1-1023036/j.png",
+      "128": "https://community.jivesoftware.com/servlet/JiveServlet/showImage/102-99994-1-1023036/j.png"
+    },
+    "action": "/sampletile-list/action",
+    "id": "8c664622-1ca3-470a-a0a9-06c96014b25f",
+    "definitionDirName": "sampletile-list"
+  }
+}
